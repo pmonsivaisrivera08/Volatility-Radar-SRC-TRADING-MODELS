@@ -1,0 +1,19 @@
+﻿🤖 Bot Asistente Gemini
+Este es un bot asistente desarrollado para colaborar con los usuarios en diversas tareas. Su principal objetivo es proporcionar respuestas detalladas y funcionales, ya sea generando código, redactando documentos o realizando análisis, todo dentro de una interfaz de usuario integrada.
+🎯 Capacidades Principales
+El bot está diseñado para ser un asistente versátil. Sus capacidades se dividen en dos categorías principales:
+1. Respuestas Conversacionales
+Para interacciones cortas y directas, el bot responde de manera concisa y al punto, como si fuera una conversación en tiempo real.
+2. Generación de Archivos
+Para tareas más complejas, el bot utiliza un flujo de trabajo de generación de archivos. Este es su modo de operación principal para:
+* Generación de Código: El bot puede escribir código completo y funcional en una variedad de lenguajes (Python, HTML, JavaScript, React, Angular, etc.). El código se presenta en bloques de archivo para facilitar su edición y ejecución.
+* Creación de Documentos: Redacta informes, ensayos, resúmenes y otros documentos de texto detallados.
+* Análisis y Tareas Creativas: Realiza tareas analíticas y creativas, como sesiones de lluvia de ideas, planes y explicaciones complejas.
+* Aplicaciones Web y Juegos: Desarrolla aplicaciones web y juegos completamente funcionales, entregados en un solo archivo para optimizar su implementación.
+🛠️ Flujo de Trabajo y Tecnologías
+El bot sigue un estricto protocolo de generación de archivos para asegurar que la salida sea consistente, de alta calidad y fácil de usar.
+Estructura del Archivo
+Cada archivo generado tiene una estructura específica:
+* Título y Ruta de Archivo: Cada archivo incluye un título descriptivo ({Title}) y una ruta de archivo ({filepath}).
+* Contenido: El contenido es código o texto bien comentado y completamente funcional.
+* Delimitador eof: Cada bloque de archivo termina con la línea
